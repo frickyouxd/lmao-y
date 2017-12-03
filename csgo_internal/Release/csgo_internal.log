@@ -1,0 +1,39 @@
+﻿  Config.cpp
+  ConVar.cpp
+  CreateMove.cpp
+  DLLMain.cpp
+  Draw.cpp
+  DrawModelExecute.cpp
+  EndScene.cpp
+  Entity.cpp
+  FrameStageNotify.cpp
+  Global.cpp
+  IBaseClientDLL.cpp
+  IInputSystem.cpp
+  IMaterialSystem.cpp
+  imgui_dx9.cpp
+  imgui.cpp
+  imgui_draw.cpp
+  Input.cpp
+  Interfaces.cpp
+  IPhysicsSurfaceProps.cpp
+  ISurface.cpp
+  Compiling...
+  IVModelRender.cpp
+  IVPanel.cpp
+  Math.cpp
+  Miscellaneous.cpp
+  NetVarManager.cpp
+  NetVars.cpp
+  Offsets.cpp
+  OverrideView.cpp
+  PaintTraverse.cpp
+  PlaySound.cpp
+  Util.cpp
+  WndProc.cpp
+  Generating code
+  1692 of 1700 functions (99.5%) were compiled, the rest were copied from previous compilation.
+    743 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  csgo_internal.vcxproj -> C:\Users\charl\Desktop\Clean teamgamerfood my moviestar\Release\notacheat.dll
